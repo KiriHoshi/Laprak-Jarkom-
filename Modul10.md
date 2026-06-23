@@ -1,4 +1,4 @@
-# Laporan Jaringan Komputer Informatika Week 10
+# Modul 10
 
 # A. Apa itu IP Address
 <div align="justify">IP address adalah alamat unik yang digunakan oleh setiap perangkat agar dapat saling terhubung dalam sebuah jaringan, sehingga memungkinkan terjadinya komunikasi antar perangkat.Sebagai contoh implementasi, kita dapat memeriksa alamat IP melalui terminal dengan menggunakan perintah “ipconfig”. Hasil yang ditampilkan menunjukkan bahwa perangkat saat ini mendapatkan IP secara otomatis dari access point atau DHCP yang berasal dari ONT. Contohnya adalah alamat IP 192.168.1.13.</div>
