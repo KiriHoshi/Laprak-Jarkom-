@@ -1,4 +1,4 @@
-# Laporan Jaringan Komputer Informatika Week 11
+# Modul 11
 
 # A. Apa itu DHCP ?
 
